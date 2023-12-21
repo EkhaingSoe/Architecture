@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useLocation } from "react-router-dom";
-import "./BlogDetail.css";
+import "./BLogDetail.css";
 import person from "../assets/images/Rober Misse.jpeg";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
